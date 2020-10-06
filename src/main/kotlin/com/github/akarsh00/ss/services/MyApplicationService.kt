@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.akarsh00.ss.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.akarsh00.ss.MyBundle
 
 class MyApplicationService {
 
